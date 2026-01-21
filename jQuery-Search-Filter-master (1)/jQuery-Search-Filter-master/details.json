@@ -1,0 +1,57 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ali",
+        "email" : "ali@gmail.com"
+    },
+    {
+        "id" : 2,
+        "name" : "Ahsan",
+        "email" : "ahsan@gmail.com"
+    },
+    {
+        "id" : 3,
+        "name" : "Hamza",
+        "email" : "hamza@gmail.com"
+    },
+    {
+        "id" : 4,
+        "name" : "Daniyal",
+        "email" : "daniyal@gmail.com"
+    },
+    {
+        "id" : 5,
+        "name" : "Osama",
+        "email" : "osama@gmail.com"
+    },
+    {
+        "id" : 6,
+        "name" : "Waleed",
+        "email" : "waleed@gmail.com"
+    },
+    {
+        "id" : 7,
+        "name" : "Yasir",
+        "email" : "yasir@gmail.com"
+    },
+    {
+        "id" : 8,
+        "name" : "Affan",
+        "email" : "affan@gmail.com"
+    },
+    {
+        "id" : 9,
+        "name" : "Arsalan",
+        "email" : "arsalan@gmail.com"
+    },
+    {
+        "id" : 10,
+        "name" : "Rehan",
+        "email" : "rehan@gmail.com"
+    },
+    {
+        "id" : 11,
+        "name" : "Umair",
+        "email" : "umair@gmail.com"
+    }
+]
